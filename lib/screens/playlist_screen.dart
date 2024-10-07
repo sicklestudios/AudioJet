@@ -2,10 +2,7 @@ import 'package:audiojet/constants.dart';
 import 'package:audiojet/settings.dart';
 import 'package:audiojet/utils.dart';
 import 'package:audiojet/widgets/playlist_card.dart';
-import 'package:audiojet/widgets/section_header.dart';
-import 'package:audiojet/widgets/song_card.dart';
 import 'package:flutter/material.dart';
-import 'package:on_audio_query/on_audio_query.dart';
 
 class PlayListScreen extends StatefulWidget {
   const PlayListScreen({super.key});

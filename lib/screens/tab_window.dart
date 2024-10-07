@@ -166,7 +166,7 @@ class _MusicCardMinimisedState extends State<MusicCardMinimised> {
 }
 
 //theAppBar
-class _CustomAppBar extends StatelessWidget with PreferredSizeWidget {
+class _CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   const _CustomAppBar();
 
   @override

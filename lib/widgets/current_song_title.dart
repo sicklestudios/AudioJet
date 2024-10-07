@@ -3,7 +3,7 @@ import 'package:audiojet/page_manager.dart';
 import 'package:audiojet/services/service_locator.dart';
 import 'package:audiojet/utils.dart';
 import 'package:flutter/material.dart';
-import 'package:marquee/marquee.dart';
+import 'package:marquee_plus/marquee.dart';
 
 class CurrentSongTitle extends StatefulWidget {
   bool? isMinimized;

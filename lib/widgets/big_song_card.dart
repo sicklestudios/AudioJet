@@ -1,9 +1,9 @@
 import 'package:audiojet/constants.dart';
 import 'package:audiojet/utils.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_neumorphic/flutter_neumorphic.dart';
+import 'package:flutter_neumorphic_plus/flutter_neumorphic.dart';
 import 'package:get/get.dart';
-import 'package:marquee/marquee.dart';
+import 'package:marquee_plus/marquee.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 
 class BigSoundCard extends StatelessWidget {

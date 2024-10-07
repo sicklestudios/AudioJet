@@ -173,7 +173,7 @@ class _DiscoverMusic extends StatelessWidget {
               'Enjoy your favorite music',
               style: Theme.of(context)
                   .textTheme
-                  .headline6!
+                  .titleLarge!
                   .copyWith(fontWeight: FontWeight.bold),
             ),
             const SizedBox(

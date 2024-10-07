@@ -11,7 +11,7 @@ import 'package:audiojet/widgets/my_circular_slider.dart';
 import 'package:audiojet/widgets/player_buttons.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:marquee/marquee.dart';
+import 'package:marquee_plus/marquee.dart';
 import 'package:palette_generator/palette_generator.dart';
 import 'package:sleek_circular_slider/sleek_circular_slider.dart';
 

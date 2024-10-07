@@ -17,7 +17,7 @@ class SectionHeader extends StatelessWidget {
         Text(title,
             style: Theme.of(context)
                 .textTheme
-                .headline6!
+                .titleLarge!
                 .copyWith(fontWeight: FontWeight.bold, color: Colors.white)),
         Text(action,
             style: Theme.of(context)

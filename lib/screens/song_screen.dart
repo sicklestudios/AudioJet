@@ -109,7 +109,7 @@ class _MusicPlayer extends StatelessWidget {
           ),
           Text(
             songModel == null ? "Loading" : songModel!.artist!,
-            style: Theme.of(context).textTheme.headline6!.copyWith(
+            style: Theme.of(context).textTheme.titleLarge!.copyWith(
                   color: Colors.white,
                 ),
           ),
